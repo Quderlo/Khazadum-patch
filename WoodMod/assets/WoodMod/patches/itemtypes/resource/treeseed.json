@@ -1,0 +1,20 @@
+[
+  {
+    "file": "game:itemtypes/resource/treeseed",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:itemtypes/resource/treeseed",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:itemtypes/resource/treeseed",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  }
+]

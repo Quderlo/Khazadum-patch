@@ -1,0 +1,29 @@
+[
+  {
+    "file": "game:worldproperties/block/wood",
+    "op": "add",
+    "path": "/variants/-",
+    "value": {
+      "Code": "wm_woodexample_01",
+      "treeType": "Decidious"
+    }
+  },
+  {
+    "file": "game:worldproperties/block/wood",
+    "op": "add",
+    "path": "/variants/-",
+    "value": {
+      "Code": "wm_woodexample_02",
+      "treeType": "Decidious"
+    }
+  },
+  {
+    "file": "game:worldproperties/block/wood",
+    "op": "add",
+    "path": "/variants/-",
+    "value": {
+      "Code": "wm_woodexample_03",
+      "treeType": "Decidious"
+    }
+  }
+]

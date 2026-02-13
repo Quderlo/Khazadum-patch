@@ -1,0 +1,17 @@
+[
+  {
+    "file": "game:recipes/barrel/weaktannin",
+    "op": "replace",
+    "path": "/0/ingredients/0/code",
+    "value": "log-placed-*-ud"
+  },
+  {
+    "file": "game:recipes/barrel/weaktannin",
+    "op": "add",
+    "path": "/0/ingredients/0/allowedVariants",
+    "value": [
+      "oak",
+      "wm_woodexample_01"
+    ]
+  }
+]

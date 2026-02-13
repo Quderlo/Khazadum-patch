@@ -1,0 +1,254 @@
+[
+  {
+    "file": "game:blocktypes/roofing/slantedroofing",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofing",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofing",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridge",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridge",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridge",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingtip",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingtip",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingtip",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingcorner-inner",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingcorner-inner",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingcorner-inner",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingcorner-outer",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingcorner-outer",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingcorner-outer",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingbottom",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingbottom",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingbottom",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingtop",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingtop",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingtop",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofinghalfleft",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofinghalfleft",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofinghalfleft",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofinghalfright",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofinghalfright",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofinghalfright",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgeend",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgeend",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgeend",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgehalfleft",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgehalfleft",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgehalfleft",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgehalfright",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgehalfright",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/slantedroofingridgehalfright",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/beam-plane",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/beam-plane",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/beam-plane",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  },
+  {
+    "file": "game:blocktypes/roofing/beam-ridge",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_01"
+  },
+  {
+    "file": "game:blocktypes/roofing/beam-ridge",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_02"
+  },
+  {
+    "file": "game:blocktypes/roofing/beam-ridge",
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "wm_woodexample_03"
+  }
+]

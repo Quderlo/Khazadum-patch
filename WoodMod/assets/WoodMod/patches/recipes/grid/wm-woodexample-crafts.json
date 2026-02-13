@@ -1,0 +1,128 @@
+[
+    {
+        "file":  "game:recipes/grid/firewood",
+        "op":  "add",
+        "path":  "/0/ingredients/L/allowedVariants/-",
+        "value":  "placed-wm_woodexample_01-ud"
+    },
+    {
+        "file":  "game:recipes/grid/firewood",
+        "op":  "add",
+        "path":  "/0/ingredients/L/allowedVariants/-",
+        "value":  "placed-wm_woodexample_02-ud"
+    },
+    {
+        "file":  "game:recipes/grid/firewood",
+        "op":  "add",
+        "path":  "/0/ingredients/L/allowedVariants/-",
+        "value":  "placed-wm_woodexample_03-ud"
+    },
+    {
+        "file":  "game:recipes/grid/pan",
+        "op":  "add",
+        "path":  "/0/ingredients/L/allowedVariants/-",
+        "value":  "placed-wm_woodexample_01-ud"
+    },
+    {
+        "file":  "game:recipes/grid/pan",
+        "op":  "add",
+        "path":  "/0/ingredients/L/allowedVariants/-",
+        "value":  "placed-wm_woodexample_02-ud"
+    },
+    {
+        "file":  "game:recipes/grid/pan",
+        "op":  "add",
+        "path":  "/0/ingredients/L/allowedVariants/-",
+        "value":  "placed-wm_woodexample_03-ud"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewnfence",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_01"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewnfence",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_02"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewnfence",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_03"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewngate",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_01"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewngate",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_02"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewngate",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_03"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewngate",
+        "op":  "add",
+        "path":  "/1/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_01"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewngate",
+        "op":  "add",
+        "path":  "/1/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_02"
+    },
+    {
+        "file":  "game:recipes/grid/roughhewngate",
+        "op":  "add",
+        "path":  "/1/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_03"
+    },
+    {
+        "file":  "game:recipes/grid/woodenfence",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_01"
+    },
+    {
+        "file":  "game:recipes/grid/woodenpath",
+        "op":  "add",
+        "path":  "/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_01"
+    },
+    {
+        "file":  "game:recipes/grid/woodenfence",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_02"
+    },
+    {
+        "file":  "game:recipes/grid/woodenpath",
+        "op":  "add",
+        "path":  "/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_02"
+    },
+    {
+        "file":  "game:recipes/grid/woodenfence",
+        "op":  "add",
+        "path":  "/0/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_03"
+    },
+    {
+        "file":  "game:recipes/grid/woodenpath",
+        "op":  "add",
+        "path":  "/ingredients/P/allowedVariants/-",
+        "value":  "wm_woodexample_03"
+    }
+]
